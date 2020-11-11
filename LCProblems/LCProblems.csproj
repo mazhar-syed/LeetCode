@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Arrays\Hard\" />
+    <Folder Include="Strings\Easy\" />
+    <Folder Include="Strings\Hard\" />
+    <Folder Include="Strings\Medium\" />
+  </ItemGroup>
+
+</Project>
